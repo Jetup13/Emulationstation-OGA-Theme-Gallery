@@ -1,5 +1,7 @@
 # Emulationstation-OGA-Theme-Gallery
-Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, RGB10, RK2020, RG351p/m, and RG351v
+Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, RGB10, RK2020, RG351p/m, and RG351v.
+
+Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery/wiki/FAQ)
 
 | Theme Name     | Preview       |480x320|640x480|
 | ---------------|:-------------:|:------:|:------:|
