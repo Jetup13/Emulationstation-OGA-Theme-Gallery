@@ -14,7 +14,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|
 | [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|
 | [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Untested|
-| [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|Yes|
+| [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|[Yes](https://github.com/CodyV59/es-theme-epic-cody-RG351V)|
 | [Freeplay](https://github.com/Jetup13/es-theme-pixel)                          | ![](https://i.imgur.com/GSDBVcI.png)|Yes|Yes|
 | [GBZ35_Mod](https://github.com/Jetup13/es-theme-gbz35_mod)                     | ![](https://i.imgur.com/wz67D79.png)|Yes|Yes|
 | [Magical-Pixel](https://github.com/Jetup13/es-theme-magical-pixel)             | ![](https://i.imgur.com/Dwcb1I3.png)|Yes|Yes|
