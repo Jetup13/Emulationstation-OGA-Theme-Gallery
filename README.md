@@ -10,6 +10,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [Base Text](https://github.com/Jetup13/es-theme-base-text)                     | ![](https://i.imgur.com/qFeyzXW.png)|Yes|Yes|
 | [ChicueloAP](https://github.com/Jetup13/es-theme-ChicueloAP)                   | ![](https://i.imgur.com/TAuhryJ.png)|Yes|Untested|
 | [CodyFlux](https://github.com/CodyV59/es-theme-CODY-FLUX)                      | ![](https://i.imgur.com/zYng4m9.png)|No |Yes|
+| [CodyFuckPlastic](https://github.com/CodyV59/es-theme-CODY-FUCKYPLASTICS)      | ![](https://i.imgur.com/QE6eBZL.png)|No |Yes|
 | [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|
 | [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|
