@@ -13,6 +13,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [CodyFuckPlastic](https://github.com/CodyV59/es-theme-CODY-FUCKYPLASTICS)      | ![](https://i.imgur.com/QE6eBZL.png)|No |Yes|
 | [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|
+| [CrystalRGB10](https://github.com/farfenkugell/Crystal_RGB10)                  | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|
 | [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|
 | [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Untested|
 | [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|[Yes](https://github.com/CodyV59/es-theme-epic-cody-RG351V)|
