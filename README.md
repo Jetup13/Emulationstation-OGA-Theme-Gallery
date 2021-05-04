@@ -3,27 +3,27 @@ Emulationstation theme gallery that links to themes that are compatible on small
 
 Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery/wiki/FAQ)
 
-| Theme Name     | Preview       |480x320|640x480|
-| ---------------|:-------------:|:------:|:------:|
-| [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://i.imgur.com/dpVgzBv.png)|Yes|Untested|
-| [Art-Book](https://github.com/Jetup13/es-theme-art-book-3-2)                   | ![](https://i.imgur.com/TgVXVYd.png)|Yes|Untested|
-| [Base Text](https://github.com/Jetup13/es-theme-base-text)                     | ![](https://i.imgur.com/qFeyzXW.png)|Yes|Yes|
-| [ChicueloAP](https://github.com/Jetup13/es-theme-ChicueloAP)                   | ![](https://i.imgur.com/TAuhryJ.png)|Yes|Untested|
-| [CodyFlux](https://github.com/CodyV59/es-theme-CODY-FLUX)                      | ![](https://i.imgur.com/zYng4m9.png)|No |Yes|
-| [CodyFuckPlastic](https://github.com/CodyV59/es-theme-CODY-FUCKYPLASTICS)      | ![](https://i.imgur.com/QE6eBZL.png)|No |Yes|
-| [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|
-| [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|
-| [CrystalRGB10](https://github.com/farfenkugell/Crystal_RGB10)                  | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|
-| [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|
-| [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Untested|
-| [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|[Yes](https://github.com/CodyV59/es-theme-epic-cody-RG351V)|
-| [Freeplay](https://github.com/Jetup13/es-theme-pixel)                          | ![](https://i.imgur.com/GSDBVcI.png)|Yes|Yes|
-| [GBZ35_Mod](https://github.com/Jetup13/es-theme-gbz35_mod)                     | ![](https://i.imgur.com/wz67D79.png)|Yes|Yes|
-| [Magical-Pixel](https://github.com/Jetup13/es-theme-magical-pixel)             | ![](https://i.imgur.com/Dwcb1I3.png)|Yes|Yes|
-| [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://i.imgur.com/H7FaDsl.png)|Yes|Yes|
-| [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|
-| [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|
-| [SagaNX](https://github.com/Jetup13/es-theme-saganx)                           | ![](https://i.imgur.com/fDw8gzi.png)|Yes|Yes|
-| [Solo-Horizontal](https://github.com/Jetup13/es-theme-solo-horizontal-arkos-ed)| ![](https://i.imgur.com/e6kvjab.png)|Yes|Untested|
-| [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://i.imgur.com/sY9zKoj.png)|Yes|Yes|
-| [WoodyCody](https://github.com/CodyV59/es-theme-WOODY-CODY-RG351V)             | ![](https://i.imgur.com/bmtOQSQ.png)|No |Yes|
+| Theme Name     | Preview       |480x320|640x480|854x480|
+| ---------------|:-------------:|:------:|:------:|:------:|
+| [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://i.imgur.com/dpVgzBv.png)|Yes|Untested|Untested|
+| [Art-Book](https://github.com/Jetup13/es-theme-art-book-3-2)                   | ![](https://i.imgur.com/TgVXVYd.png)|Yes|Untested|Untested|
+| [Base Text](https://github.com/Jetup13/es-theme-base-text)                     | ![](https://i.imgur.com/qFeyzXW.png)|Yes|Yes|Yes|
+| [ChicueloAP](https://github.com/Jetup13/es-theme-ChicueloAP)                   | ![](https://i.imgur.com/TAuhryJ.png)|Yes|Untested|Untested|
+| [CodyFlux](https://github.com/CodyV59/es-theme-CODY-FLUX)                      | ![](https://i.imgur.com/zYng4m9.png)|No |Yes|Untested|
+| [CodyFuckPlastic](https://github.com/CodyV59/es-theme-CODY-FUCKYPLASTICS)      | ![](https://i.imgur.com/QE6eBZL.png)|No |Yes|Untested|
+| [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|Untested|
+| [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|Untested|
+| [CrystalRGB10](https://github.com/farfenkugell/Crystal_RGB10)                  | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|Untested|
+| [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|Untested|
+| [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Untested|Untested|
+| [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|[Yes](https://github.com/CodyV59/es-theme-epic-cody-RG351V)|Untested|
+| [Freeplay](https://github.com/Jetup13/es-theme-pixel)                          | ![](https://i.imgur.com/GSDBVcI.png)|Yes|Yes|Untested|
+| [GBZ35_Mod](https://github.com/Jetup13/es-theme-gbz35_mod)                     | ![](https://i.imgur.com/wz67D79.png)|Yes|Yes|Untested|
+| [Magical-Pixel](https://github.com/Jetup13/es-theme-magical-pixel)             | ![](https://i.imgur.com/Dwcb1I3.png)|Yes|Yes|Untested|
+| [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://i.imgur.com/H7FaDsl.png)|Yes|Yes|Untested|
+| [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Untested|
+| [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Untested|
+| [SagaNX](https://github.com/Jetup13/es-theme-saganx)                           | ![](https://i.imgur.com/fDw8gzi.png)|Yes|Yes|Yes|
+| [Solo-Horizontal](https://github.com/Jetup13/es-theme-solo-horizontal-arkos-ed)| ![](https://i.imgur.com/e6kvjab.png)|Yes|Untested|Untested|
+| [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://i.imgur.com/sY9zKoj.png)|Yes|Yes|Yes|
+| [WoodyCody](https://github.com/CodyV59/es-theme-WOODY-CODY-RG351V)             | ![](https://i.imgur.com/bmtOQSQ.png)|No |Yes|Untested|
