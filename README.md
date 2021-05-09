@@ -24,6 +24,8 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Untested|
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Untested|
 | [SagaNX](https://github.com/Jetup13/es-theme-saganx)                           | ![](https://i.imgur.com/fDw8gzi.png)|Yes|Yes|Yes|
+| [SagaParagon](https://github.com/Jetup13/es-theme-sagaparagon)                 | ![](https://i.imgur.com/NjvbOUG.png)|Yes|Yes|Yes|
+| [SagaSlice](https://github.com/Jetup13/es-theme-sagaslice)                     | ![](https://i.imgur.com/X87P87V.png)|Yes|Yes|Yes|
 | [SagaWorld](https://github.com/Jetup13/es-theme-sagaworld)                     | ![](https://i.imgur.com/LXBuAL0.png)|Yes|Yes|Yes|
 | [Solo-Horizontal](https://github.com/Jetup13/es-theme-solo-horizontal-arkos-ed)| ![](https://i.imgur.com/e6kvjab.png)|Yes|Untested|Untested|
 | [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://i.imgur.com/sY9zKoj.png)|Yes|Yes|Yes|
