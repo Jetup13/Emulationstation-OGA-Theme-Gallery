@@ -14,14 +14,14 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|Untested|
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|Untested|
 | [CrystalRGB10](https://github.com/farfenkugell/Crystal_RGB10)                  | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|Untested|
-| [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|Untested|
+| [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|No|
 | [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Untested|Untested|
 | [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|[Yes](https://github.com/CodyV59/es-theme-epic-cody-RG351V)|Untested|
 | [Freeplay](https://github.com/Jetup13/es-theme-pixel)                          | ![](https://i.imgur.com/GSDBVcI.png)|Yes|Yes|Untested|
 | [GBZ35_Mod](https://github.com/Jetup13/es-theme-gbz35_mod)                     | ![](https://i.imgur.com/wz67D79.png)|Yes|Yes|Untested|
 | [Magical-Pixel](https://github.com/Jetup13/es-theme-magical-pixel)             | ![](https://i.imgur.com/Dwcb1I3.png)|Yes|Yes|Untested|
 | [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://i.imgur.com/H7FaDsl.png)|Yes|Yes|Untested|
-| [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Untested|
+| [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Yes|
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Untested|
 | [SagaCrystal](https://github.com/Jetup13/es-theme-sagacrystal)                 | ![](https://i.imgur.com/aWazxRh.png)|Yes|Yes|Yes|
 | [SagaNX](https://github.com/Jetup13/es-theme-saganx)                           | ![](https://i.imgur.com/fDw8gzi.png)|Yes|Yes|Yes|
