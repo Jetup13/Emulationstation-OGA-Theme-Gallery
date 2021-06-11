@@ -8,6 +8,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://i.imgur.com/dpVgzBv.png)|Yes|Untested|Untested|
 | [Art-Book](https://github.com/Jetup13/es-theme-art-book-3-2)                   | ![](https://i.imgur.com/TgVXVYd.png)|Yes|Untested|Untested|
 | [Base Text](https://github.com/Jetup13/es-theme-base-text)                     | ![](https://i.imgur.com/qFeyzXW.png)|Yes|Yes|Yes|
+| [BannerOGSMAX](https://github.com/Jetup13/es-theme-banner-ogsmax)              | ![](https://i.imgur.com/65JUQgw.png)|No |No |Yes|
 | [ChicueloAP](https://github.com/Jetup13/es-theme-ChicueloAP)                   | ![](https://i.imgur.com/TAuhryJ.png)|Yes|Untested|Untested|
 | [CodyFlux](https://github.com/CodyV59/es-theme-CODY-FLUX)                      | ![](https://i.imgur.com/zYng4m9.png)|No |Yes|Untested|
 | [CodyFuckPlastic](https://github.com/CodyV59/es-theme-CODY-FUCKYPLASTICS)      | ![](https://i.imgur.com/QE6eBZL.png)|No |Yes|Untested|
@@ -27,6 +28,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Untested|
 | [SagaBox](https://github.com/Jetup13/es-theme-sagabox)                         | ![](https://i.imgur.com/byulo76.png)|Yes|Yes|Yes|
 | [SagaCrystal](https://github.com/Jetup13/es-theme-sagacrystal)                 | ![](https://i.imgur.com/aWazxRh.png)|Yes|Yes|Yes|
+| [SagaModern](https://github.com/Jetup13/es-theme-sagamodern)                   | ![](https://i.imgur.com/InMbvCo.png)|Yes|Yes|Yes|
 | [SagaNX](https://github.com/Jetup13/es-theme-saganx)                           | ![](https://i.imgur.com/fDw8gzi.png)|Yes|Yes|Yes|
 | [SagaParagon](https://github.com/Jetup13/es-theme-sagaparagon)                 | ![](https://i.imgur.com/NjvbOUG.png)|Yes|Yes|Yes|
 | [SagaSlice](https://github.com/Jetup13/es-theme-sagaslice)                     | ![](https://i.imgur.com/X87P87V.png)|Yes|Yes|Yes|
