@@ -26,6 +26,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://i.imgur.com/H7FaDsl.png)|Yes|Yes|Untested|
 | [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Yes|
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Yes|
+| [SagaArtBook](https://github.com/Jetup13/es-theme-sagaartbook)                 | ![](https://i.imgur.com/Vnvn2I4.png)|Yes|Yes|Yes|
 | [SagaBox](https://github.com/Jetup13/es-theme-sagabox)                         | ![](https://i.imgur.com/byulo76.png)|Yes|Yes|Yes|
 | [SagaCrystal](https://github.com/Jetup13/es-theme-sagacrystal)                 | ![](https://i.imgur.com/aWazxRh.png)|Yes|Yes|Yes|
 | [SagaModern](https://github.com/Jetup13/es-theme-sagamodern)                   | ![](https://i.imgur.com/InMbvCo.png)|Yes|Yes|Yes|
