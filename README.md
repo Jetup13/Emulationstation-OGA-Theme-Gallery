@@ -3,6 +3,8 @@ Emulationstation theme gallery that links to themes that are compatible on small
 
 Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery/wiki/FAQ)
 
+Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](https://github.com/farfenkugell), and [Jetup13](https://github.com/Jetup13)
+
 | Theme Name     | Preview       |480x320|640x480|854x480|
 | ---------------|:-------------:|:------:|:------:|:------:|
 | [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://i.imgur.com/dpVgzBv.png)|Yes|Untested|Untested|
