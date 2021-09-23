@@ -14,12 +14,14 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 | [CodyFuckPlastic](https://github.com/CodyV59/es-theme-CODY-FUCKYPLASTICS)      | ![](https://i.imgur.com/QE6eBZL.png)|No |Yes|Untested|
 | [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|Untested|
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|Untested|
-| [CrystalRGB10](https://github.com/farfenkugell/Crystal_RGB10)                  | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|Untested|
 | [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|Untested|No|
 | [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Untested|Untested|
 | [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|Untested|Untested|
 | [EpicCodyRG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V)         | ![](https://i.imgur.com/MNgX49P.png)|Untested|Yes|Untested|
 | [EpicMax](https://github.com/CodyV59/es-theme-EPICMAX-CODY-RGB10MAX)           | ![](https://i.imgur.com/MqsPLDe.png)|Untested|Untested|Yes|
+| [Farfenkugell_Crystal](https://github.com/farfenkugell/es-theme-farfenkugell_crystal)   | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|Yes|
+| [Farfenkugell_EPICMAX](https://github.com/farfenkugell/es-theme-farfenkugell_EPICMAX)   | ![](https://i.imgur.com/4yYoavt.png)|Yes|No|No|
+| [Farfenkugell Retrofix](https://github.com/farfenkugell/es-theme-farfenkugell_retrofix) | ![](https://i.imgur.com/NDO997x.png)|Yes|Yes|Yes|
 | [Freeplay](https://github.com/Jetup13/es-theme-freeplay)                       | ![](https://i.imgur.com/GSDBVcI.png)|Yes|Yes|Untested|
 | [GBZ35_Mod](https://github.com/Jetup13/es-theme-gbz35_mod)                     | ![](https://i.imgur.com/wz67D79.png)|Yes|Yes|Untested|
 | [Magical-Pixel](https://github.com/Jetup13/es-theme-magical-pixel)             | ![](https://i.imgur.com/Dwcb1I3.png)|Yes|Yes|Untested|
