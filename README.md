@@ -39,5 +39,5 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 | [SagaSlice](https://github.com/Jetup13/es-theme-sagaslice)                     | ![](https://i.imgur.com/X87P87V.png)|Yes|Yes|Yes|
 | [SagaWorld](https://github.com/Jetup13/es-theme-sagaworld)                     | ![](https://i.imgur.com/LXBuAL0.png)|Yes|Yes|Yes|
 | [Solo-Horizontal](https://github.com/Jetup13/es-theme-solo-horizontal-arkos-ed)| ![](https://i.imgur.com/e6kvjab.png)|Yes|Untested|Untested|
-| [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://i.imgur.com/sY9zKoj.png)|Yes|Yes|Yes|
+| [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://i.imgur.com/YotwiRx.png)|Yes|Yes|Yes|
 | [WoodyCody](https://github.com/CodyV59/es-theme-WOODY-CODY-RG351V)             | ![](https://i.imgur.com/bmtOQSQ.png)|No |Yes|Untested|
