@@ -23,7 +23,7 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 | [EpicMax](https://github.com/CodyV59/es-theme-EPICMAX-CODY-RGB10MAX)           | ![](https://i.imgur.com/MqsPLDe.png)|Untested|Untested|Yes|
 | [Farfenkugell_Crystal](https://github.com/farfenkugell/es-theme-farfenkugell_crystal)   | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|Yes|
 | [Farfenkugell_EPICMAX](https://github.com/farfenkugell/es-theme-farfenkugell_EPICMAX)   | ![](https://i.imgur.com/4yYoavt.png)|Yes|No|No|
-| [Farfenkugell Retrofix](https://github.com/farfenkugell/es-theme-farfenkugell_retrofix) | ![](https://i.imgur.com/NDO997x.png)|Yes|Yes|Yes|
+| [Farfenkugell Retrofix](https://github.com/farfenkugell/es-theme-farfenkugell_lazy) | ![](https://i.imgur.com/NDO997x.png)|Yes|Yes|Yes|
 | [Freeplay](https://github.com/Jetup13/es-theme-freeplay)                       | ![](https://i.imgur.com/GSDBVcI.png)|Yes|Yes|Untested|
 | [GBZ35_Mod](https://github.com/Jetup13/es-theme-gbz35_mod)                     | ![](https://i.imgur.com/wz67D79.png)|Yes|Yes|Untested|
 | [Magical-Pixel](https://github.com/Jetup13/es-theme-magical-pixel)             | ![](https://i.imgur.com/Dwcb1I3.png)|Yes|Yes|Untested|
