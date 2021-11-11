@@ -23,6 +23,7 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 | [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|Untested|Untested|
 | [EpicCodyRG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V)         | ![](https://i.imgur.com/MNgX49P.png)|Untested|Yes|Untested|
 | [EpicMax](https://github.com/CodyV59/es-theme-EPICMAX-CODY-RGB10MAX)           | ![](https://i.imgur.com/MqsPLDe.png)|Untested|Untested|Yes|
+| [Farfenkugell_Columns](https://github.com/farfenkugell/es-theme-farfenkugell-columns)   | ![](https://i.imgur.com/PjYmUgM.png)|No|No|Yes|
 | [Farfenkugell_Crystal](https://github.com/farfenkugell/es-theme-farfenkugell_crystal)   | ![](https://i.imgur.com/68qQxuK.png)|Yes|Yes|Yes|
 | [Farfenkugell_EPICMAX](https://github.com/farfenkugell/es-theme-farfenkugell_EPICMAX)   | ![](https://i.imgur.com/4yYoavt.png)|Yes|No|No|
 | [Farfenkugell Lazy](https://github.com/farfenkugell/es-theme-farfenkugell_lazy) | ![](https://i.imgur.com/4qqYx4Q.png)|Yes|Yes|Yes|
