@@ -44,3 +44,10 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 | [Solo-Horizontal](https://github.com/Jetup13/es-theme-solo-horizontal-arkos-ed)| ![](https://i.imgur.com/e6kvjab.png)|Yes|Untested|Untested|
 | [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://i.imgur.com/YotwiRx.png)|Yes|Yes|Yes|
 | [WoodyCody](https://github.com/CodyV59/es-theme-WOODY-CODY-RG351V)             | ![](https://i.imgur.com/bmtOQSQ.png)|No |Yes|Untested|
+| [RetroBenny-PS5](https://github.com/TheBenny/RG351V-RetroBenny-PS5)             | ![](https://i.imgur.com/gMeY7BC.png)|No |Yes|No|
+| [RetroBenny-PS2](https://github.com/TheBenny/RG351V-RetroBenny-PS2)             | ![](https://imgur.com/RMIkA4D)|No |Yes|No|
+| [RetroBenny-NesBox-Wood](https://github.com/TheBenny/RG351V-RetroBenny-NesBox-Wood)             | ![](https://i.imgur.com/VyNOOuv.png)|No |Yes|No|
+| [RetroBenny-NesBox-BlackBG](https://github.com/TheBenny/RG351V-RetroBenny-NesBox-BlackBG)             | ![](https://i.imgur.com/iRlUyeH.png)|No |Yes|No|
+| [RetroBenny-NesMini](https://github.com/TheBenny/RG3551V-RetroBenny-NesMini)             | ![](https://i.imgur.com/k3gNgHU.png)|No |Yes|No|
+
+
