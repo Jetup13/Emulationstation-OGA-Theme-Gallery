@@ -33,11 +33,11 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 | [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://i.imgur.com/H7FaDsl.png)|Yes|Yes|Untested|
 | [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Yes|
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Yes|
-| [RetroBenny-NesBox-BlackBG](https://github.com/TheBenny/RG351V-RetroBenny-NesBox-BlackBG)      | ![](https://i.imgur.com/iRlUyeH.png)|No|Yes|No|
-| [RetroBenny-NesBox-Wood](https://github.com/TheBenny/RG351V-RetroBenny-NesBox-Wood)            | ![](https://i.imgur.com/VyNOOuv.png)|No|Yes|No|
-| [RetroBenny-NesMini](https://github.com/TheBenny/RG3551V-RetroBenny-NesMini)             | ![](https://i.imgur.com/k3gNgHU.png)|No |Yes|No|
-| [RetroBenny-PS2](https://github.com/TheBenny/RG351V-RetroBenny-PS2)            | ![](https://i.imgur.com/uQo9wuF.png)|No|Yes|No|
-| [RetroBenny-PS5](https://github.com/TheBenny/RG351V-RetroBenny-PS5)            | ![](https://i.imgur.com/zwGIMTb.png)|No|Yes|No|
+| [RetroBenny-NesBox-BlackBG](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-BlackBG)      | ![](https://i.imgur.com/iRlUyeH.png)|No|Yes|No|
+| [RetroBenny-NesBox-Wood](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-Wood)            | ![](https://i.imgur.com/VyNOOuv.png)|No|Yes|No|
+| [RetroBenny-NesMini](https://github.com/TheBenny/es-theme-RG3551V-RetroBenny-NesMini)             | ![](https://i.imgur.com/k3gNgHU.png)|No |Yes|No|
+| [RetroBenny-PS2](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-PS2)            | ![](https://i.imgur.com/uQo9wuF.png)|No|Yes|No|
+| [RetroBenny-PS5](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-PS5)            | ![](https://i.imgur.com/zwGIMTb.png)|No|Yes|No|
 | [SagaArtBook](https://github.com/Jetup13/es-theme-sagaartbook)                 | ![](https://i.imgur.com/Vnvn2I4.png)|Yes|Yes|Yes|
 | [SagaBox](https://github.com/Jetup13/es-theme-sagabox)                         | ![](https://i.imgur.com/byulo76.png)|Yes|Yes|Yes|
 | [SagaCrystal](https://github.com/Jetup13/es-theme-sagacrystal)                 | ![](https://i.imgur.com/aWazxRh.png)|Yes|Yes|Yes|
