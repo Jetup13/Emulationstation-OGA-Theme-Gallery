@@ -5,7 +5,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 
 Theme's can be downloaded from github or on device through [JohnIrive1433's](https://github.com/JohnIrvine1433) [Thememaster](https://github.com/JohnIrvine1433/ThemeMaster)
 
-Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), and [RetroBenny] (https://github.com/TheBenny)
+Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), and [RetroBenny](https://github.com/TheBenny)
 
 | Theme Name     | Preview       |480x320|640x480|854x480|
 | ---------------|:-------------:|:------:|:------:|:------:|
