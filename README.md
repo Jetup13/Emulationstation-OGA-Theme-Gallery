@@ -36,7 +36,7 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 | [RetroBenny-NesBox-BlackBG](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-BlackBG)      | ![](https://i.imgur.com/iRlUyeH.png)|No|Yes|No|
 | [RetroBenny-NesBox-Wood](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-Wood)            | ![](https://i.imgur.com/VyNOOuv.png)|No|Yes|No|
 | [RetroBenny-NesMini](https://github.com/TheBenny/es-theme-RG3551V-RetroBenny-NesMini)             | ![](https://i.imgur.com/k3gNgHU.png)|No |Yes|No|
-| [RetroBenny-PS2](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-PS2)            | ![](https://i.imgur.com/uQo9wuF.png)|No|Yes|No|
+| [RetroBenny-PS2](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-PS2)            | ![](https://i.imgur.com/uQo9wuF.png)|Yes|Yes|No|
 | [RetroBenny-PS5](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-PS5)            | ![](https://i.imgur.com/zwGIMTb.png)|No|Yes|No|
 | [SagaArtBook](https://github.com/Jetup13/es-theme-sagaartbook)                 | ![](https://i.imgur.com/Vnvn2I4.png)|Yes|Yes|Yes|
 | [SagaBox](https://github.com/Jetup13/es-theme-sagabox)                         | ![](https://i.imgur.com/byulo76.png)|Yes|Yes|Yes|
