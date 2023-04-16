@@ -9,6 +9,7 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 
 | Theme Name     | Preview       |480x320|640x480|854x480|960x544|
 | ---------------|:-------------:|:------:|:------:|:------:|:------:|
+| [Albedo](https://github.com/mluizvitor/es-theme-albedo)                        | ![](https://i.imgur.com/SaYIYgt.png)|Yes|Yes|Untested|Untested|
 | [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://i.imgur.com/dpVgzBv.png)|Yes|Untested|Untested|Untested|
 | [Art-Book](https://github.com/Jetup13/es-theme-art-book-3-2)                   | ![](https://i.imgur.com/TgVXVYd.png)|Yes|Untested|Untested|Untested|
 | [Base Text](https://github.com/Jetup13/es-theme-base-text)                     | ![](https://i.imgur.com/qFeyzXW.png)|Yes|Yes|Yes|Yes|
