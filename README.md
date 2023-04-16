@@ -9,6 +9,7 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 
 | Theme Name     | Preview       |480x320|640x480|854x480|960x544|
 | ---------------|:-------------:|:------:|:------:|:------:|:------:|
+| [Albedo](https://github.com/mluizvitor/es-theme-albedo)                        | ![](https://i.imgur.com/SaYIYgt.png)|Yes|Yes|Untested|Untested|
 | [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://i.imgur.com/dpVgzBv.png)|Yes|Untested|Untested|Untested|
 | [Art-Book](https://github.com/Jetup13/es-theme-art-book-3-2)                   | ![](https://i.imgur.com/TgVXVYd.png)|Yes|Untested|Untested|Untested|
 | [Base Text](https://github.com/Jetup13/es-theme-base-text)                     | ![](https://i.imgur.com/qFeyzXW.png)|Yes|Yes|Yes|Yes|
@@ -19,6 +20,7 @@ Themes shown are from [CodyV59](https://github.com/CodyV59), [farfenkugell](http
 | [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|Untested|Untested|
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|Untested|Untested|
 | [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|No|No|No|
+| [Elementerial](https://github.com/mluizvitor/es-theme-elementerial)            | ![](https://i.imgur.com/SvjKEyf.png)|Yes|Yes|Untested|Untested|
 | [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Yes|Untested|Untested|
 | [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|Untested|Untested|Untested|
 | [EpicCodyRG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V)         | ![](https://i.imgur.com/MNgX49P.png)|Untested|Yes|Untested|Untested|
