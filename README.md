@@ -40,7 +40,7 @@ Themes shown are from [Akira-N28](https://github.com/Akira-N28), [CodyV59](https
 | [RetroBenny-NesMini](https://github.com/TheBenny/es-theme-RG3551V-RetroBenny-NesMini)             | ![](https://i.imgur.com/k3gNgHU.png)|No |Yes|No|Untested|
 | [RetroBenny-PS2](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-PS2)            | ![](https://i.imgur.com/uQo9wuF.png)|Yes|Yes|No|Untested|
 | [RetroBenny-PS5](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-PS5)            | ![](https://i.imgur.com/zwGIMTb.png)|No|Yes|No|Untested|
-| [RetroNeon](https://github.com/Akira-N28/RetroNeon-an_ArkOS_theme)             | ![](https://i.imgur.com/nB6JrNM.png)|Untested|Yes|Untested|Untested|
+| [RetroNeon](https://github.com/Akira-N28/es-theme-RetroNeon)                   | ![](https://i.imgur.com/nB6JrNM.png)|Untested|Yes|Untested|Untested|
 | [SagaArtBook](https://github.com/Jetup13/es-theme-sagaartbook)                 | ![](https://i.imgur.com/Vnvn2I4.png)|Yes|Yes|Yes|Yes|
 | [SagaBox](https://github.com/Jetup13/es-theme-sagabox)                         | ![](https://i.imgur.com/byulo76.png)|Yes|Yes|Yes|Yes|
 | [SagaCrystal](https://github.com/Jetup13/es-theme-sagacrystal)                 | ![](https://i.imgur.com/aWazxRh.png)|Yes|Yes|Yes|Yes|
