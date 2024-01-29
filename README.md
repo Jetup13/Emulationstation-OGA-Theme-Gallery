@@ -5,7 +5,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 
 Theme's can be downloaded from github or on device through [JohnIrive1433's](https://github.com/JohnIrvine1433) [Thememaster](https://github.com/JohnIrvine1433/ThemeMaster)
 
-Themes shown are from [Akira-N28](https://github.com/Akira-N28), [CodyV59](https://github.com/CodyV59), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), [mluizvitor](https://github.com/mluizvitor), [Narcurutu](https://github.com/Nacurutu),and [RetroBenny](https://github.com/TheBenny)
+Themes shown are from [Akira-N28](https://github.com/Akira-N28), [CodyV59](https://github.com/CodyV59), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), [mluizvitor](https://github.com/mluizvitor), [Narcurutu](https://github.com/Nacurutu), [nkahoang](https://github.com/nkahoang), and [RetroBenny](https://github.com/TheBenny)
 
 | Theme Name     | Preview       |480x320|640x480|854x480|960x544|
 | ---------------|:-------------:|:------:|:------:|:------:|:------:|
@@ -13,6 +13,7 @@ Themes shown are from [Akira-N28](https://github.com/Akira-N28), [CodyV59](https
 | [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://i.imgur.com/dpVgzBv.png)|Yes|Untested|Untested|Untested|
 | [ARC-S-Theme Remix](https://github.com/Nacurutu/es-theme-ARC-S-Theme-Remix---The-RA-CFW)                   | ![](https://i.imgur.com/LRF0o7r.png)|Untested|Yes|Untested|Untested|
 | [Art-Book](https://github.com/Jetup13/es-theme-art-book-3-2)                   | ![](https://i.imgur.com/TgVXVYd.png)|Yes|Untested|Untested|Untested|
+| [Art-Book-Next-ArkOS](https://github.com/nkahoang/es-theme-art-book-next-arkos)  | ![](https://i.imgur.com/X7tAt0h.png)|Untested|Untested|Untested|Untested|
 | [Base Text](https://github.com/Jetup13/es-theme-base-text)                     | ![](https://i.imgur.com/qFeyzXW.png)|Yes|Yes|Yes|Yes|
 | [BannerOGSMAX](https://github.com/Jetup13/es-theme-banner-ogsmax)              | ![](https://i.imgur.com/65JUQgw.png)|No |No |Yes|No|
 | [ChicueloAP](https://github.com/Jetup13/es-theme-ChicueloAP)                   | ![](https://i.imgur.com/TAuhryJ.png)|Yes|Untested|Untested|Untested|
