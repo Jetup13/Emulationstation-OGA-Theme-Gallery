@@ -22,7 +22,9 @@ Themes shown are from [Akira-N28](https://github.com/Akira-N28), [CodyV59](https
 | [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://i.imgur.com/7GfwmzM.png)|No |Yes|Untested|Untested|
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://i.imgur.com/IeRpw0N.png)|No |Yes|Untested|Untested|
 | [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://i.imgur.com/gjqAFul.png)|Yes|No|No|No|
+| [Cyber2077](https://github.com/AeolusUX/es-theme-Cyber2077)                    | ![](https://i.imgur.com/o2msnjl.png)|Yes|Yes|Yes|Yes|
 | [Elementerial](https://github.com/mluizvitor/es-theme-elementerial)            | ![](https://i.imgur.com/SvjKEyf.png)|Yes|Yes|Untested|Untested|
+| [EpicAeolus](https://github.com/AeolusUX/es-theme-EpicAeolus)                  | ![](https://i.imgur.com/odlMpb3.png)|Yes|Yes|Yes|Yes|
 | [EpicNoir](https://github.com/Jetup13/es-theme-epicnoir)                       | ![](https://i.imgur.com/KzQBtYu.png)|Yes|Yes|Untested|Untested|
 | [EpicCody](https://github.com/CodyV59/es-theme-epic-cody-RG351P-M)             | ![](https://i.imgur.com/Xa034oj.png)|Yes|Untested|Untested|Untested|
 | [EpicCodyRG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V)         | ![](https://i.imgur.com/MNgX49P.png)|Untested|Yes|Untested|Untested|
@@ -37,6 +39,7 @@ Themes shown are from [Akira-N28](https://github.com/Akira-N28), [CodyV59](https
 | [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://i.imgur.com/H7FaDsl.png)|Yes|Yes|Yes|Yes|
 | [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Yes|Untested|
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Yes|Untested|
+| [Replica](https://github.com/dani7959/es-theme-replica/)                             | ![](https://i.imgur.com/SshqLSh.png))|Untested|Yes|Yes|Yes|
 | [RetroBenny-NesBox-BlackBG](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-BlackBG)      | ![](https://i.imgur.com/iRlUyeH.png)|No|Yes|No|Untested|
 | [RetroBenny-NesBox-Wood](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-Wood)            | ![](https://i.imgur.com/VyNOOuv.png)|No|Yes|No|Untested|
 | [RetroBenny-NesMini](https://github.com/TheBenny/es-theme-RG3551V-RetroBenny-NesMini)             | ![](https://i.imgur.com/k3gNgHU.png)|No |Yes|No|Untested|
