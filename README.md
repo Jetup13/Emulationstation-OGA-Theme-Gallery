@@ -39,7 +39,7 @@ Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https
 | [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://i.imgur.com/H7FaDsl.png)|Yes|Yes|Yes|Yes|
 | [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://i.imgur.com/U9xnQ6V.png)|Yes|Yes|Yes|Untested|
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://i.imgur.com/GWTZURK.png)|Yes|Yes|Yes|Untested|
-| [Replica](https://github.com/dani7959/es-theme-replica/)                             | ![](https://i.imgur.com/SshqLSh.png))|Untested|Yes|Yes|Yes|
+| [Replica](https://github.com/dani7959/es-theme-replica/)                             | ![](https://i.imgur.com/SshqLSh.png)|Untested|Yes|Yes|Yes|
 | [RetroBenny-NesBox-BlackBG](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-BlackBG)      | ![](https://i.imgur.com/iRlUyeH.png)|No|Yes|No|Untested|
 | [RetroBenny-NesBox-Wood](https://github.com/TheBenny/es-theme-RG351V-RetroBenny-NesBox-Wood)            | ![](https://i.imgur.com/VyNOOuv.png)|No|Yes|No|Untested|
 | [RetroBenny-NesMini](https://github.com/TheBenny/es-theme-RG3551V-RetroBenny-NesMini)             | ![](https://i.imgur.com/k3gNgHU.png)|No |Yes|No|Untested|
