@@ -10,6 +10,7 @@ Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https
 | Theme Name     | Preview       |480x320|640x480|854x480|960x544|720x720|
 | ---------------|:-------------:|:------:|:------:|:------:|:------:|:-----:
 | [Albedo](https://github.com/mluizvitor/es-theme-albedo)                        | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/albedo.png)|Yes|Yes|Untested|Untested|Untested|
+| [Alekfull-SOLO-ArkOS](https://github.com/AeolusUX/Alekfull-SOLO-ArkOS)         | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/alekfull-solo-arkos.png)|Untested|Yes|Untested|Untested|Untested|
 | [ArkOS-Carbon](https://github.com/Jetup13/es-theme-arkos-carbon)               | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/arkos-carbon.png)|Yes|Untested|Untested|Untested|Untested|
 | [ARC-S-Theme Remix](https://github.com/Nacurutu/es-theme-ARC-S-Theme-Remix---The-RA-CFW)                   | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/arc-s-theme-remix.png)|Untested|Yes|Untested|Untested|Untested|
 | [Art-Book](https://github.com/Jetup13/es-theme-art-book-3-2)                   | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/art-book.png)|Yes|Untested|Untested|Untested|Untested|
