@@ -5,7 +5,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 
 Theme's can be downloaded from github or on device through [JohnIrive1433's](https://github.com/JohnIrvine1433) [Thememaster](https://github.com/JohnIrvine1433/ThemeMaster)
 
-Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https://github.com/Akira-N28), [CodyV59](https://github.com/CodyV59), [dani7959](https://github.com/dani7959), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), [mluizvitor](https://github.com/mluizvitor), [Narcurutu](https://github.com/Nacurutu), [nkahoang](https://github.com/nkahoang), and [RetroBenny](https://github.com/TheBenny)
+Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https://github.com/Akira-N28), [CodyV59](https://github.com/CodyV59), [dani7959](https://github.com/dani7959), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), [mluizvitor](https://github.com/mluizvitor), [Narcurutu](https://github.com/Nacurutu), [nkahoang](https://github.com/nkahoang), [RetroBenny](https://github.com/TheBenny), and [Vidnez](https://github.com/Vidnez/)
 
 | Theme Name     | Preview       |480x320|640x480|854x480|960x544|720x720|
 | ---------------|:-------------:|:------:|:------:|:------:|:------:|:-----:
@@ -38,6 +38,7 @@ Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https
 | [GBZ35_Mod](https://github.com/Jetup13/es-theme-gbz35_mod)                     | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/gbz35_mod.png)|Yes|Yes|Untested|Untested|Untested|
 | [Magical-Pixel](https://github.com/Jetup13/es-theme-magical-pixel)             | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/magical-pixel.png)|Yes|Yes|Untested|Untested|Untested|
 | [Minimal-ArkOS](https://github.com/Jetup13/es-theme-minimal-arkos)             | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/minimal-arkos.png)|Yes|Yes|Yes|Yes|Untested|
+| [MinUArk](https://github.com/Vidnez/es-theme-MinUArk)             | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/minuark.png)|Untested|Untested|Untested|Untested|Yes|
 | [NES-Box](https://github.com/Jetup13/es-theme-nes-box)                         | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/nes-box.png)|Yes|Yes|Yes|Untested|No|
 | [Pixel](https://github.com/Jetup13/es-theme-pixel)                             | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/pixel.png)|Yes|Yes|Yes|Untested|Untested|
 | [Replica](https://github.com/dani7959/es-theme-replica/)                             | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/replica.png)|Untested|Yes|Yes|Yes|Untested|
