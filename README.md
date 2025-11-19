@@ -5,7 +5,7 @@ Make sure to check out the [wiki](https://github.com/Jetup13/Emulationstation-OG
 
 Theme's can be downloaded from github or on device through [JohnIrive1433's](https://github.com/JohnIrvine1433) [Thememaster](https://github.com/JohnIrvine1433/ThemeMaster)
 
-Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https://github.com/Akira-N28), [CodyV59](https://github.com/CodyV59), [dani7959](https://github.com/dani7959), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), [mluizvitor](https://github.com/mluizvitor), [Narcurutu](https://github.com/Nacurutu), [nkahoang](https://github.com/nkahoang), [ptv-0](https://github.com/ptv-0), [RetroBenny](https://github.com/TheBenny), and [Vidnez](https://github.com/Vidnez/)
+Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https://github.com/Akira-N28), [CodyV59](https://github.com/CodyV59), [dani7959](https://github.com/dani7959), [farfenkugell](https://github.com/farfenkugell), [Jetup13](https://github.com/Jetup13), [mluizvitor](https://github.com/mluizvitor), [Narcurutu](https://github.com/Nacurutu), [nkahoang](https://github.com/nkahoang), [ptv-0](https://github.com/ptv-0), [RetroBenny](https://github.com/TheBenny), [snakkarike](https://github.com/snakkarike) and [Vidnez](https://github.com/Vidnez/)
 
 | Theme Name     | Preview       |480x320|640x480|854x480|960x544|720x720|
 | ---------------|:-------------:|:------:|:------:|:------:|:------:|:-----:
@@ -23,6 +23,8 @@ Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https
 | [CodyFuckPlastic](https://github.com/CodyV59/es-theme-CODY-FUCKYPLASTICS)      | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/codyfuckplastic.png)|No |Yes|Untested|Untested|Untested|
 | [CodyDarkteck](https://github.com/CodyV59/es-theme-CODY-DARKTECK)              | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/codydarkteck.png)|No |Yes|Untested|Untested|Untested|
 | [CodyDestroy](https://github.com/CodyV59/es-theme-CODY-DESTROY-THE-RG351V)     | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/codydestroy.png)|No |Yes|Untested|Untested|Untested|
+| [Colorful](https://github.com/snakkarike/es-theme-colorful)     | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/colorful-port.png)|No |No|No|Yes|No|
+| [Colorful-Noir](https://github.com/snakkarike/es-theme-colorful-noir)     | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/colorful-noir.png)|No |No|No|Yes|No|
 | [Custom-Box](https://github.com/Jetup13/es-theme-custom-box)                   | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/custom-box.png)|Yes|No|No|No|No|
 | [Cyber2077](https://github.com/AeolusUX/es-theme-Cyber2077)                    | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/cyber2077.png)|Yes|Yes|Yes|Yes|Untested|
 | [Elementerial](https://github.com/mluizvitor/es-theme-elementerial)            | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/elementerial.png)|Yes|Yes|Untested|Untested|Untested|
