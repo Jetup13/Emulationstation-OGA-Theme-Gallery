@@ -63,3 +63,4 @@ Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https
 | [Solo-Horizontal](https://github.com/Jetup13/es-theme-solo-horizontal-arkos-ed)| ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/solo-horizontal.png)|Yes|Untested|Untested|Yes|No|
 | [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/switch.png)|Yes|Yes|Yes|Yes|Yes
 | [WoodyCody](https://github.com/CodyV59/es-theme-WOODY-CODY-RG351V)             | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/woodycody.png)|No |Yes|Untested|Yes|Untested|
+| [Colorful v2](https://github.com/mistertomlinson/es-theme-colorful-v2)        | ![](https://raw.githubusercontent.com/mistertomlinson/es-theme-colorful-v2/main/screenshots/Arcade_system.png)|Yes|Yes|Yes|Yes|Yes|
