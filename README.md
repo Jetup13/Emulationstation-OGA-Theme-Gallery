@@ -62,4 +62,5 @@ Themes shown are from [AeoluxUX](https://github.com/AeolusUX), [Akira-N28](https
 | [SagaWorld](https://github.com/Jetup13/es-theme-sagaworld)                     | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/sagaworld.png)|Yes|Yes|Yes|Yes|No|
 | [Solo-Horizontal](https://github.com/Jetup13/es-theme-solo-horizontal-arkos-ed)| ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/solo-horizontal.png)|Yes|Untested|Untested|Yes|No|
 | [Switch](https://github.com/Jetup13/es-theme-switch)                           | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/switch.png)|Yes|Yes|Yes|Yes|Yes
+| [Wii](https://github.com/lucy-dot-exe/es-wii-theme)                           | ![](https://raw.githubusercontent.com/lucy-dot-exe/es-wii-theme/main/previews/system.png)|Untested|Yes|Untested|Untested|Untested|
 | [WoodyCody](https://github.com/CodyV59/es-theme-WOODY-CODY-RG351V)             | ![](https://raw.githubusercontent.com/Jetup13/Emulationstation-OGA-Theme-Gallery/main/images/woodycody.png)|No |Yes|No|Yes|No|
